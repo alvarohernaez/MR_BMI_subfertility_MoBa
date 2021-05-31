@@ -1,9 +1,9 @@
-# DMRScan
+# This is the heading
 R package for detection of differentially methylated regions with adjustment for multiple testing
 
 # Important Info
 ## Authors
-CM Page, L Vos, BK Andreasen
+Alvaro H something
 
 ## Package structure
 The function `DMRScan()` requires three key inputs; 
