@@ -1,7 +1,7 @@
 # Manuscript: "Body mass index and subfertility: multivariable regression and Mendelian randomization analyses in the Norwegian Mother, Father and Child Cohort Study"
 ## Authors
-Álvaro Hernáez
-Tormod Rogne
+- Álvaro Hernáez
+- Tormod Rogne
 Karoline H. Skåra
 Siri E. Håberg
 Christian M. Page
